@@ -1,0 +1,6 @@
+
+.env
+__pycache__/
+.venv/
+documents/
+voice_input.wav
